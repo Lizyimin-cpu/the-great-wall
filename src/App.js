@@ -1,25 +1,29 @@
-import logo from './logo.svg';
+import React from 'react';
+import CommentSection from './CommentSection';
+import SupportModule from './SupportModule';  // 添加这个模块
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>The Great Wall - Safe Space for Women</h1>
       </header>
+      <main>
+        <div className="comment-section">
+          
+          <CommentSection />
+        </div>
+        <div className="support-module">
+          <h3>Support & Anti-Cyberbullying Resources</h3>
+          <SupportModule />
+        </div>
+      </main>
     </div>
   );
 }
 
 export default App;
+
+
+
