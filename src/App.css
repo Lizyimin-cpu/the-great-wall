@@ -4,7 +4,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #FFB6C1; /* Light Pink */
   padding: 20px;
   color: white;
   text-align: center;
@@ -12,10 +12,11 @@
 
 h1 {
   margin: 0;
+  color: #C71585; /* Medium Violet Red */
 }
 
 h2, h3 {
-  color: #333;
+  color: #800080; /* Purple */
   margin-bottom: 20px;
 }
 
@@ -40,7 +41,7 @@ textarea {
   height: 150px;
   padding: 10px;
   border-radius: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid #DB7093; /* Pale Violet Red */
   font-size: 16px;
   margin-bottom: 10px;
   resize: none;
@@ -49,28 +50,29 @@ textarea {
 
 button {
   padding: 10px 20px;
-  background-color: #61dafb;
+  background-color: #FF69B4; /* Hot Pink */
   border: none;
   border-radius: 5px;
   font-size: 16px;
   cursor: pointer;
   transition: background-color 0.3s ease;
+  color: white;
 }
 
 button:hover {
-  background-color: #21a1f1;
+  background-color: #FF1493; /* Deep Pink */
 }
 
 .support-module {
   text-align: left;
-  background-color: #f9f9f9;
+  background-color: #FFE4E1; /* Misty Rose */
   padding: 20px;
   border-radius: 5px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 input {
-  border: 1px solid #ddd;
+  border: 1px solid #FFDAB9; /* Peach Puff */
   border-radius: 5px;
   padding: 10px;
   width: 100%;
@@ -87,37 +89,31 @@ body {
   background-repeat: no-repeat;
   height: 100%;
   min-height: 100vh;
+  background-color: #FFF0F5; /* Lavender Blush */
 }
+
 .comment-section-sticky {
-  position: -webkit-sticky; /* 适用于 Safari */
+  position: -webkit-sticky; /* For Safari */
   position: sticky;
   top: 0;
-  background-color: white;
+  background-color: #FFF0F5; /* Lavender Blush */
   padding: 20px;
   z-index: 1000;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
-
-
-
-
-
 
 @media screen and (max-width: 768px) {
   main {
     flex-direction: column;
   }
 
-  @media screen and (max-width: 768px) {
   body {
-    background-size: contain; /* 在小屏幕上使背景图片适应屏幕 */
+    background-size: contain; /* Ensures background fits on smaller screens */
   }
-}
 
   .comment-section, .support-module {
     width: 100%;
   }
-
-
 }
+
 
