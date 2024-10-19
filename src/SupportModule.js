@@ -40,7 +40,7 @@ const SupportModule = () => {
         <img
           src={p1}
           alt="Dealing with Cyberbullying"
-          style={{ maxWidth: "100%", height: "auto", marginBottom: "20px" }}
+          style={{ maxWidth: "60%", height: "auto", marginBottom: "20px" }}
         />
 
         {/* Add your requested text here */}
@@ -54,13 +54,6 @@ const SupportModule = () => {
           relevant authorities or platforms when needed. It's also important to
           share your feelings with a trusted friend or family member for
           emotional support.
-        </p>
-        <p>
-          If the situation is serious, legal help can be sought, especially if
-          threats or harassment are involved. Schools, communities, or online
-          support groups also offer counseling and legal advice to help deal
-          with the effects of cyberbullying. Most importantly, don't let
-          cyberbullying affect your mental health and seek support and help.
         </p>
 
         <h4>Psychological Support and Resources</h4>
@@ -76,7 +69,7 @@ const SupportModule = () => {
         <img
           src={p2}
           alt="Psychological Support"
-          style={{ maxWidth: "100%", height: "auto", marginBottom: "20px" }}
+          style={{ maxWidth: "60%", height: "auto", marginBottom: "20px" }}
         />
 
         <p>
@@ -89,20 +82,7 @@ const SupportModule = () => {
           provide effective coping strategies. Many online platforms now also
           provide convenient psychological counseling services.
         </p>
-        <p>
-          Additionally, establishing a healthy lifestyle is essential to reduce
-          stress. Keeping a regular schedule, eating a healthy diet, and
-          exercising moderately will improve your overall physical and mental
-          well-being. You can also practice relaxation techniques like deep
-          breathing, meditation, or mindfulness to help you relax, regulate your
-          mood, and ease anxiety.
-        </p>
-        <p>
-          Finally, set your own goals and expectations reasonably to avoid
-          excessive self-demands. Breaking down tasks and setting achievable
-          goals can reduce your mental load and help you cope better with
-          stress. It's important to seek help and focus on your mental health.
-        </p>
+
 
         <h4>Support Groups</h4>
         <p>
@@ -117,7 +97,7 @@ const SupportModule = () => {
         <img
           src={p3}
           alt="Support Groups"
-          style={{ maxWidth: "100%", height: "auto", marginBottom: "20px" }}
+          style={{ maxWidth: "60%", height: "auto", marginBottom: "20px" }}
         />
 
         <h4>Educational Video on Cyberbullying</h4>
@@ -189,9 +169,9 @@ const SupportModule = () => {
           ></iframe>
         </div>
 
-        <h4>Helplines for Women</h4>
+        <h4>Helplines for Women in 46 countries</h4>
         <a
-          href="https://www.whv.org.au/resources/need-help-now"
+          href="https://wave-network.org/list-of-helplines-in-46-countries/"
           target="_blank"
           rel="noreferrer"
         >
