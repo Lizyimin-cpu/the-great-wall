@@ -142,22 +142,23 @@ const CommentSection = () => {
           marginRight: "20px", // Add margin on the right to prevent touching the right content
         }}
       >
-        <h2>Software Introduction</h2>
+        <h2>Website Introduction</h2>
         <p>
-          The Great Wall Software is an app specifically designed to deal with
-          gender bias in the online environment, aiming to create a safer,
-          friendly, and inclusive online space for female users. With advanced
-          content management features such as blacklist/whitelist control, text
-          blocking, and emotion regulation, the software can effectively
-          identify and filter harmful comments and prevent cyberbullying
-          behaviors. The software provides psychological support to adjust the
-          content received by the user in different emotional states, while also
-          integrating privacy protection features to ensure the safety of user
-          data. Great Wall Software also introduced third-party integration to
-          enhance the user experience and promote knowledge sharing and
-          interaction among women, helping users form a closer community.
+          This website is our actual product, the Great Wall webpage is a
+          webpage specifically designed to address gender bias in the online
+          environment, aiming to create a safer, friendly and inclusive online
+          space for female users. The software has advanced content management
+          functions such as black and white list control, text blocking, and
+          emotion regulation, which can effectively identify and filter harmful
+          comments and prevent cyberbullying behavior. The software provides
+          psychological support to adjust the content received by the user in
+          different emotional states, while also integrating privacy protection
+          features to ensure the security of user data. Great Wall Software also
+          introduced third-party integration to enhance the user experience,
+          promote knowledge sharing and interaction among women, and help users
+          form a closer community.
         </p>
-        <h2>The Function and Significance of Software</h2>
+        <h2>The Function of Product</h2>
         <p>
           The core function of The Great Wall software is not limited to pure
           content filtering and security guarantee, but it also provides
@@ -170,16 +171,7 @@ const CommentSection = () => {
           environment of inappropriate comments on social media, where women's
           safety and mental health are particularly important.
         </p>
-        <p>
-          In addition, through information synchronization and knowledge sharing
-          functions, Great Wall software actively promotes the interaction and
-          participation of the female community, helping them to build a sense
-          of belonging in the virtual world. This kind of community building can
-          not only reduce the loneliness of users, but also strengthen the
-          support and trust between them. This collective power helps to
-          alleviate the negative emotions caused by social media and enhance the
-          happiness of users.
-        </p>
+       
         <h2>Impact</h2>
         <p>
           The emergence of The Great Wall Software fills the gap in the market
@@ -191,14 +183,6 @@ const CommentSection = () => {
           trust in the platform. By improving the security of social media,
           Great Wall Software reduces the frequency of network violence, thus
           having a positive impact on the overall network ecology.
-        </p>
-        <p>
-          In addition, the software also plays an important role in the
-          monitoring of public opinion, helping to identify planned attacks and
-          undesirable effects, and safeguarding female users from online
-          threats. This dual role not only benefits individuals, but also has a
-          profound positive impact on the public opinion environment of the
-          whole society.
         </p>
       </div>
 
