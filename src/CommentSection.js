@@ -184,6 +184,16 @@ const CommentSection = () => {
           Great Wall Software reduces the frequency of network violence, thus
           having a positive impact on the overall network ecology.
         </p>
+        <h2>Annotation </h2>
+        <p>
+          The Great Wall Software demo showcases its advanced filtering system,
+          designed to detect and block hateful content in real-time. Using
+          blacklist/whitelist controls, it screens out offensive language and
+          adapts to new harmful speech patterns. The platform enhances user
+          safety by filtering inappropriate messages before they reach the user,
+          while also incorporating emotional regulation tools and feedback to
+          improve its accuracy over time.
+        </p>
       </div>
 
       {/* Move Comment Section here */}
